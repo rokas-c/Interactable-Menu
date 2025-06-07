@@ -1,0 +1,33 @@
+﻿  CppCLR_WinFormsProject.cpp
+C:\Users\rokas\OneDrive\Desktop\RC\MyForm5.h(201,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+C:\Users\rokas\OneDrive\Desktop\RC\MyForm6.h(150,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file '/CppCLR_WinFormsProject.cpp')
+  
+  MyForm6.cpp
+C:\Users\rokas\OneDrive\Desktop\RC\MyForm6.h(150,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file '/MyForm6.cpp')
+  
+  MyForm7.cpp
+C:\Users\rokas\OneDrive\Desktop\RC\MyForm6.cpp(4,33): error C2039: 'skaitymas': is not a member of 'CppCLRWinFormsProject::MyForm6'
+  (compiling source file '/MyForm6.cpp')
+  C:\Users\rokas\OneDrive\Desktop\RC\MyForm6.h(26,19):
+  see declaration of 'CppCLRWinFormsProject::MyForm6'
+  
+C:\Users\rokas\OneDrive\Desktop\RC\MyForm6.cpp(4,43): error C2065: 'S': undeclared identifier
+  (compiling source file '/MyForm6.cpp')
+  
+C:\Users\rokas\OneDrive\Desktop\RC\MyForm6.cpp(4,44): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file '/MyForm6.cpp')
+  
+C:\Users\rokas\OneDrive\Desktop\RC\MyForm6.cpp(5,1): error C2059: syntax error: '{'
+  (compiling source file '/MyForm6.cpp')
+  
+C:\Users\rokas\OneDrive\Desktop\RC\MyForm6.cpp(5,1): error C2143: syntax error: missing ';' before '{'
+  (compiling source file '/MyForm6.cpp')
+  
+C:\Users\rokas\OneDrive\Desktop\RC\MyForm6.cpp(5,1): error C2447: '{': missing function header (old-style formal list?)
+  (compiling source file '/MyForm6.cpp')
+  
+  Generating Code...
